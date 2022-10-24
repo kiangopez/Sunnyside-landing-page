@@ -408,7 +408,7 @@ footer .socials svg {
   .text {
     justify-content: center;
     text-align: left;
-    padding: 0 210px;
+    padding: 0 100px;
   }
 
   .text h3 {
@@ -424,7 +424,7 @@ footer .socials svg {
   }
 
   .grid-2-text {
-    padding: 0 250px;
+    padding: 0 150px;
     margin: 0 auto;
     margin-bottom: 20px;
   }
