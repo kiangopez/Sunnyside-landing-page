@@ -449,6 +449,7 @@ footer .socials svg {
 
   .text a {
     width: 150px;
+    margin: 0;
   }
 
   .yellow::after {
